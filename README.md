@@ -7,3 +7,5 @@ Se me dio por hacer algo muy sencillo para levantar el humor de algunos amigos y
 - Cambia color del progress bar segun un rango de valores.
 - Utiliza un timer para ir actualizando lo valores desde la web.
 - Formulario sin bordes que se pueda desplazar.
+
+En las capturas se puede ver el pequeño form y sus funciones.
