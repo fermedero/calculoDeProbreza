@@ -1,6 +1,0 @@
-D:\Dispro_CSharp\Sueldo\Sueldo\bin\Debug\Sueldo.dll
-D:\Dispro_CSharp\Sueldo\Sueldo\bin\Debug\Sueldo.pdb
-D:\Dispro_CSharp\Sueldo\Sueldo\obj\Debug\Sueldo.csprojAssemblyReference.cache
-D:\Dispro_CSharp\Sueldo\Sueldo\obj\Debug\Sueldo.csproj.CoreCompileInputs.cache
-D:\Dispro_CSharp\Sueldo\Sueldo\obj\Debug\Sueldo.dll
-D:\Dispro_CSharp\Sueldo\Sueldo\obj\Debug\Sueldo.pdb
