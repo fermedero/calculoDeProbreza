@@ -1,0 +1,10 @@
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\bin\Debug\Sueldo_UI.exe.config
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\bin\Debug\Sueldo_UI.exe
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\bin\Debug\Sueldo_UI.pdb
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.csprojAssemblyReference.cache
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.Properties.Resources.resources
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.csproj.GenerateResource.cache
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.csproj.CoreCompileInputs.cache
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.exe
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.pdb
+D:\Dispro_CSharp\Sueldo\Sueldo_UI\obj\Debug\Sueldo_UI.Form1.resources
